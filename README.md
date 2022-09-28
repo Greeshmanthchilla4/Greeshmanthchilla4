@@ -6,7 +6,9 @@
 
 - 🌱 Currently upskilling in the field of **Data science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Greeshmanthchilla4/Data-Analytics-Portfolio](https://github.com/Greeshmanthchilla4/Data-Analytics-Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Greeshmanthchilla4/Data-Analytics-Portfolio](https://github.com/Greeshmanthchilla4/Data-Analytics-Portfolio) 
+[https://github.com/Greeshmanthchilla4/SQL-Portfolio](https://github.com/Greeshmanthchilla4/SQL-Portfolio) 
+[https://github.com/Greeshmanthchilla4/Power-BI-Portfolio](https://github.com/Greeshmanthchilla4/Power-BI-Portfolio)
 
 - 💬 Ask me about **Data analytics**
 
